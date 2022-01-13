@@ -5,8 +5,8 @@ class PersonCard extends Component{
         super(props);
         console.log(props);
 
-        const{firstName, lastName, age, hairColor} = this.props.person;
-        console.log(firstName, lastName, age, hairColor);
+        // const{firstName, lastName, age, hairColor} = this.props.person;
+        // console.log(firstName, lastName, age, hairColor);
     }
 
     render(){
